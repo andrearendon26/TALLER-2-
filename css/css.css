@@ -48,32 +48,8 @@ img{
     text-align: center;
     
 }
-button{
-    font-size: 1.0em;
-    font-weight: bold;
-    background-color: rgb(235, 41, 41);
-    padding: 10px 20px;   /*20 arriba y 40 a los costados.. tamaño del boton*/
-    border: 1px solid rgb(0, 0, 3); 
-    box-shadow: 2px 2px 18px rgb(0, 0, 5); /*agregar sombra*/
-    color: white;
-    
-}
-button:hover{
-    background-color: rgb(243, 10, 10);
-}
-#bibliografia{
-    height: 60vh; /*altura de la pantalla*/  
-    
-  }
-  .biblio-container{ /*PRICIPAL*/
-     
-     border: 1px solid rgb(0, 0, 3); /*ancho del borde*/
-     width: 80%;
-     margin-left: 10%;
-     margin-right: 10%;
+   
   
-     
-  }
   .img2-container{ /*SOLO IMAGEN DISEÑO*/
   
       display: flex;
@@ -97,31 +73,4 @@ button:hover{
     }
 
 
-    .botones{
-        display: flex;
-        justify-content: center;
-        margin-top: 40px;
-        margin-bottom: 5px;
-        
-    
-    }
-    
-
-    a:link , :visited{
-        background-color: red;
-       color: white;
-       padding: 14px 20px;
-        border: solid 1px rgb(14, 13, 13);
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        border: solid 1px black;
-        
-    
-      }
-      
-      a:hover, a:active{
-        background-color:red;
-
-      }
     
